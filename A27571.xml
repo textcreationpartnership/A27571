@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral sermon preached on the occasion of the Right Honourable the Earl of Sh--y's late interment in Dorset-shire by W.B. a godly minister (though unworthy servant) of Jesus Christ.</title>
+            <author>W. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27571</idno>
+            <idno type="STC">Wing B211</idno>
+            <idno type="STC">ESTC R37047</idno>
+            <idno type="EEBO-CITATION">16196869</idno>
+            <idno type="OCLC">ocm 16196869</idno>
+            <idno type="VID">105039</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27571)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105039)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1085:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral sermon preached on the occasion of the Right Honourable the Earl of Sh--y's late interment in Dorset-shire by W.B. a godly minister (though unworthy servant) of Jesus Christ.</title>
+                  <author>W. B.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by George Croom,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not a sermon at all, but a Whig political harangue.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Shaftesbury, Anthony Ashley Cooper, --  Earl of, 1621-1683.</term>
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105039:1"/>
+            <pb facs="tcp:105039:1" rendition="simple:additions"/>
+            <p>A FUNERAL SERMON PREACHED On the Occaſion of the Right Honourable the Earl of
+<hi>Sh</hi>—<hi>y</hi>'s Late Interment in <hi>DORSET-SHIRE.</hi>
+            </p>
+            <p>By <hi>W.B.</hi> a Godly Miniſter (though unworthy Ser<g ref="char:EOLhyphen"/>vant) of <hi>Jeſus Chriſt.</hi>
+            </p>
+            <q>Si quid habent veri Vatûm praeſagia, Vivam.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>George Croom,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:105039:2"/>
+            <pb n="3" facs="tcp:105039:2" rendition="simple:additions"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PROVERBS. 10.7.</hi>
+                  </bibl>
+                  <p>The Memory of the Juſt ſhall be Bleſſed, but the name of the Wicked ſhall Rot.</p>
+               </q>
+            </epigraph>
+            <p>I Shall not trouble my ſelf nor you with any tedious Introductions, or long Circumlocutions
+(as ſome Divines uſe) before I come to the buſineſs in hand; ſince I apprehend it
+altogether fruitleſs, and unſucceſsful. For, (Beloved) what ſignifies an im<g ref="char:EOLhyphen"/>pertinent
+preamble? an inſipid, foppiſh kind of Harangue before a Sermon? 'Tis a dull kind of Trick that
+<hi>Baal</hi>'s Prieſts (the lazy <hi>Levites</hi> of the Age) have got to make the Glaſs hold
+out; what with the frothy buſineſs of Narrations, Exordiums, Paraphraſes, the hour is ſlipt
+a<g ref="char:EOLhyphen"/>way inſenſibly. Beſides, (my Friends) they raiſe Peo<g ref="char:EOLhyphen"/>ples expectations too high, and then
+it may be <hi>Parturi<g ref="char:EOLhyphen"/>unt Montes,</hi> they make a ſplendid Porch to an ordinary Thatch'd
+Houſe: Why I tell you, the People don't approve of ſuch tedious Graces before they come to the
+ſubſtantial Food of Uſe and Doctrine; they are mad to catch at the Diviſion, like a
+ſharp-ſet Country Bump<g ref="char:EOLhyphen"/>kin, who half devour'd a Plum-Pudding, e're a Brother of ours could
+diſpatch his Grace. From whence 'tis ea<g ref="char:EOLhyphen"/>ſie to infer, that long tedious Preambles before a
+Ser<g ref="char:EOLhyphen"/>mon, are equally pernicious to Mens Souls, as a long
+<pb n="4" facs="tcp:105039:3"/>winded Grace before Meat is to their Bodies. This Po<g ref="char:EOLhyphen"/>ſition might quickly be
+prov'd, but I intend to be con<g ref="char:EOLhyphen"/>ciſe, and I ſhall endeavour to alter this <hi>Jeſuitical</hi>
+Trick of Introductions: For this Reaſon I deſign to fall <hi>ſlap daſh</hi> upon my Text,
+and ſo Anatomize it, and Split it, as the matter will give leave. but (Beloved) before I proceed,
+I beg your Chriſtian Patience to permit me a little to inſiſt upon the occaſions of our
+gathering to<g ref="char:EOLhyphen"/>gether, and to ſhew you the reaſons of this great So<g ref="char:EOLhyphen"/>lemnity. This day (my
+Friends) is a day of Mourning and Lamentation, of Howling and Wringing of Hands; 'tis a day we have
+choſen to Celebrate the Funeral Rites of our Worthy, and much to be Lamented Patriot, the late
+King of <hi>Poland,</hi> who (in ſpight of Axes and Hal<g ref="char:EOLhyphen"/>ters, and other Engines of Mortality)
+quietly, and peaceably gave up the Ghoſt amongſt the True <hi>Republi<g ref="char:EOLhyphen"/>can Bores</hi> of
+<hi>Holland.</hi> Oh! this was a fatal day, a day of Gloomineſs and Honour: This Man's unlucky
+Fate (who was our principal Patron and Benefactor) has ſtruck to the very Roots, and Foundations
+of the <hi>Good Old Cauſe,</hi> It was Strong and Potent, and flouriſh'd once to admiration,
+through the Wit and Conduct of this Great <hi>Maſter-Piece</hi> of <hi>Politicks:</hi> I had
+almoſt ſaid it was ſupported by the Breath of his Noſtrils; he gave it entertainment,
+ſuckled it, nurſt it, and almoſt (curſe on the Fates) brought it up to perfection.</p>
+            <p>But now alas (with grief and ſorrow I ſpeak it) it begins to ſimper, and dwindle
+extreamly, it drops ſo (I'm horribly afraid) that All the <hi>Quacks</hi> and <hi>Bunglers</hi>
+in <hi>Politicks</hi> will not be able to recover it. Let us therefore of the Brotherhood lament,
+and ſeriouſly be<g ref="char:EOLhyphen"/>wail the Death of this much admired Patriot, and in him (I weep to ſpeak it)
+the Funeral, the total Con<g ref="char:EOLhyphen"/>ſumption of our Intereſt: That my Friends muſt needs
+<pb n="5" facs="tcp:105039:3" rendition="simple:additions"/>fall to the Ground, unleſs (in this Critical Juncture of Affairs,)
+ſome Grand Politician luckily interpoſe, and prevent the expected miſcarriage.</p>
+            <p>But what hopes have we of ſuch an excellent Succeſ<g ref="char:EOLhyphen"/>ſour? It muſt needs ſink I ſay,
+unleſs ſome Honeſt Man (ſome <hi>Anti-monarchical</hi> degraded <hi>Stateſman,</hi> who
+will be Rebellious out of a Principle of Revenge) bravely vindicate the Holy quarrel, and take up
+the Cudgels to ſupport a Languiſhing (if not Dying) Faction, and carry on a drooping, decrepid
+<hi>Plot.</hi> Such an one as we muſt neceſſarily find, if we hope ever to be ſucceſsful
+in our future undertakings. But this is by the By; and yet I muſt needs ſay, 'tis a
+neceſſary Digreſſion. Let me therefore now apply my ſelf unto our Dear Siſters: Be ye
+likewiſe in a Mourning Poſture, let your Coun<g ref="char:EOLhyphen"/>tenances be dejected, your Eyes full of Tears;
+let out<g ref="char:EOLhyphen"/>ward Sobs and Sighs expreſs the inward Sorrow of your Hearts. Lament ye, I ſay, (Dear
+Siſters) for the Death of your Old Friend, he was always a True Friend to you, always kind to
+your Sex, and a conſtant ad<g ref="char:EOLhyphen"/>mirer of the Feminine Gender, (as the late <hi>Salamanca</hi> Doctor
+has been of the Maſculine.) Do ye therefore gratefully Celebrate the Memory of this Juſt Friend
+of yours, which brings me very pat to my Text, namely, <hi>The Memory,</hi> &amp;c.</p>
+            <p>Not to trouble or perplex you with the nice Explica<g ref="char:EOLhyphen"/>tion of the Words, nor to ranſack old
+Muſty Worm-eaten Commentators and Paraphraſers, I ſhall content my ſelf to ſatisfy you
+with the Opinion of ſome of our Modern Controverſialliſts. And to be brief, I ſhall not put
+the Words on the Rack, to make them confeſs more than they have a mind to. The Words (in my
+Opinion) contain in them two Affirmative Propoſiti<g ref="char:EOLhyphen"/>ons. Firſt, <hi>The Memory,</hi> &amp;c.
+Secondly, <hi>The Name,</hi>&amp;c.</p>
+            <pb n="6" facs="tcp:105039:4"/>
+            <p>This I ſhall make out (as plain as the Noſe in your Face) by laying down thoſe two
+Poſitions.
+<list>
+                  <item>1. That a Grave, Serious, Godly, True Proteſtant kind of Life and Converſation, is the
+only way to ſecure a ſound and honeſt Reputation after Death.</item>
+                  <item>2. That a Ranting, Roaring, Papiſtical Tory kind of Behaviour here, makes a Mans Name Rot
+and his Memory odious after Death, to all Sober Godly Chri<g ref="char:EOLhyphen"/>ſtians.</item>
+               </list>
+            </p>
+            <p>This (I'm ſure) is a ſubſtantial Orthodox Piece of Doctrine: But I ſhall proceed to
+prove my Firſt Poſiti<g ref="char:EOLhyphen"/>on. (Beloved) Gravity and Seriouſneſs in Behaviour, (though its
+Prophanely call'd by the Ungodly Forma<g ref="char:EOLhyphen"/>lity, Hypocriſie, and preciſeneſs) is a very
+commenda<g ref="char:EOLhyphen"/>ble qualification in any Man of what Age, Size or Com<g ref="char:EOLhyphen"/>plexion. A reſerved Face, a good
+demure ſanctified Countenance, challenges a civil reſpect from any Man. Men generally pay due
+deference to a Man (though the meaneſt Perſon in the World) if his Looks are any ways inclin'd
+to Godlineſs; if he has Religion ſtamp'd on his Face, (and if the Marks of Reprobation are not
+viſible in his Forehead) if (I ſay) his Elevated Eyes diſcover a fervent Soul within, he
+muſt of neceſſity be wonderfully rever'd. But alas! we are fallen into a degenerate Age, an
+Age as ſinful and Prophane, as To<g ref="char:EOLhyphen"/>ry-Evil Principles can make it; 'tis Second <hi>Sodom</hi>
+with<g ref="char:EOLhyphen"/>out doubt, the People are hardned in <hi>Wickedneſs,</hi> they Drink, they Whore, keep
+ſtrange Women, they Neigh after their Neighbours Wives. Theſe are the Ungod<g ref="char:EOLhyphen"/>ly (my Beloved)
+that commit ſuch <hi>abominable things;</hi> I hope it will ne'er be juſtly ſaid ſo of us.
+We are the Righteous, the Choſen people of God, and we are ſur<g ref="char:EOLhyphen"/>rounded with the Protection of
+the Almighty, Aſſiſted by the careful Adminiſtration of his Angels, ſo that our
+<pb n="7" facs="tcp:105039:4"/>Tongues cannot faulter, nor our Feet ſlide, or turn in<g ref="char:EOLhyphen"/>to any evil Paths.</p>
+            <p>But ſee the inveterateneſs of our Enemies, the Spleen, the Rancour, the Malice of the
+Ungodly, how detract<g ref="char:EOLhyphen"/>ing, how malicious and envious they are. They hate us, becauſe (in truth) we
+are more Holy than they. If we will not ſwear, we are preciſe forſooth; if we refuſe to
+frequent lewd Drinking-houſes, we fall under the cenſure of being Formal, and Starch'd: All our
+Righteous dealings are evilly interpreted. What? If a Brother, or Siſter, through the infirmities
+of Nature (to which we are all ſubject) unadviſedly tread aſide, and walk in the Ungodly's
+Paths? Lord! what a clut<g ref="char:EOLhyphen"/>ter is preſently made of it, what grinning, and ſneering there is
+amongſt the wicked Adverſaries. If the Spirit is frail and weak ſometimes, and the Fleſh
+becomes too too Predominant, I ſay, if a couple of our Fraternity ſhould by the powerful
+influence of Fleſh, and Blood, chance to fall, if they ſhould lovingly embrace one ano<g ref="char:EOLhyphen"/>ther in
+the Fear of the Lord, and zealouſly Act that, which indeed is a Great Sin, ſuppoſe it be
+known. Why! you cannot imagine what noiſe there is made about it. Nothing leſs than a white
+Sheet and Wand, a Pilgri<g ref="char:EOLhyphen"/>mage bare Footed, and bare Legged up to the Parſons Pew. And this is the
+Anti-Chriſtian Penance that is ſo ſeverely deſtined to our Godly Party, for a trifling
+miſcarriage, a ſmall cracking of one of the Command<g ref="char:EOLhyphen"/>ments: And yet our Adverſaries, (I
+ſpeak it calmly, and without Paſſion) are bold in their <hi>Wickedneſs,</hi> they can Rant,
+and whore it away without contradi<g ref="char:EOLhyphen"/>ction. Unleſs now and then a couple or ſo is hampered in
+<hi>Bridewell</hi> to Play with <hi>Hemp</hi> a little, only to deter, and frighten others. If the
+Wicked would but take our Saviour<hi>'s</hi> Advice, and be ruled by him, we ſhould
+<pb n="8" facs="tcp:105039:5"/>have a pleaſant World. If no one ſhould caſt Stones but the Innocent, and
+Guiltleſs, a Man might ſtand with ſecurity in the <hi>Pillory</hi> or <hi>Market-place;</hi>
+Hang <hi>Houſes</hi> of <hi>Correction,</hi> and the <hi>Whipping Poſts.</hi> There would be no
+hurling of Stones, or Pelting with Orange Pills, I'le warrant it.</p>
+            <p>But Men are Partial (Beloved) now adays, and Cenſorious too; if we Preach moſt powerfully,
+and preſs things home effectually to Mens Conſciences, why, you hear what they ſay, they
+ſay we are Hypocrites, that our Diſcourſes are nothing elſe but a
+<hi>Gypſie-like-Canting,</hi> that the unutterable Groans of the Spirit are mere <hi>Satanick
+Effuſions,</hi> that our Prayers are the ef<g ref="char:EOLhyphen"/>fect of a Diſtemper'd Brain, and promoted by
+Deviliſh <hi>Enthuſiaſtick Raptures:</hi> That our Sighs (at the time of our Worſhip) is an
+Impoſture, a Holy Cheat, an Artificial Sobbing, on purpoſe to ſeduce filly Women. (Thus are
+our good Works evil ſpoken off, by Men of Unſanctified underſtandings.) If we Pray
+zealouſly, and are familiar with God in our <hi>Ejaculations,</hi> the Wicked ſay we are
+ſawcy, and tumultuous in our Pe<g ref="char:EOLhyphen"/>titions: If we talk of any aſſurance or certainty that God is
+on our ſide, they ask what <hi>Intelligence,</hi> what <hi>Gazetts</hi> we receive from Heaven:
+If we are Tranſport<g ref="char:EOLhyphen"/>ed now and then, and ſpeak that which indeed may be Impertinent, or
+Incoherent, as to deſire God Almighty to Ride Poſt to help a Sick young Man at Sea, or ſuch
+like things as theſe; why, this is no great harm: It would be Interpreted by modeſt Men, only
+the <hi>Exu<g ref="char:EOLhyphen"/>berance,</hi> (as I may ſo ſay) of Fancy, or the over-flowings of Invention, but
+now 'tis term'd Prophane<g ref="char:EOLhyphen"/>neſs, and words bordering upon Blaſphemy.</p>
+            <pb n="9" facs="tcp:105039:5"/>
+            <p>Thus do they peſter and teeze us, who are the Meek of the Earth, <hi>Vexat cenſura
+Columbas;</hi> if (to be ſhort) a Brother of ours was once engaged in a temptation, which was
+wholly irreſiſtible (as may be evident by the violent and ſudden Inſurrection of the unruly
+Mem<g ref="char:EOLhyphen"/>ber;) What? Could there be a more charitable piece of Humanity in a Godly Siſter, than to
+ſtrive to allay his eager Appetite, and ſtroak down the Member that is troubleſome, and
+uneaſie? A <hi>Bull-like</hi> Fortitude muſt be tam'd at <hi>Moor-fields,</hi> or at ſome
+other convenient <hi>Paſtures.</hi> But to return to my Text, and tell you the means, and methods
+how to fortify your Reputation againſt the virulent attempts, and reflections of evil, and
+dangerous Tongues, and ſecure a good Memory after. Death. For in the Words of my Text, <hi>The
+Memory of the Juſt ſhall be Bleſſed, their Name ſhall flouriſh in the Earthy their
+Memories ſhall ſmell ſweet, and bloſſom to ſuture Ages.</hi> Let malice do its worſt,
+and envy caſt all its cutting Darts upon us, yet let us perſevere in our Godly reſolutions,
+and then we may bear the in<g ref="char:EOLhyphen"/>dignities of our Enemies without repining. The only way that I can
+propoſe to you, is to be unconcern'd at their ſneering Calumnies, let them laugh, and expoſe
+us publickly, we can grin in ſecret at them, and traduce them likewiſe. Let us be unconcern'd I
+ſay, at all their malice, for the only Pillar that can ſup<g ref="char:EOLhyphen"/>port us (under the preſent
+circumſtances of affairs) is a Bare-fac'd well compacted Impudence: That's the on<g ref="char:EOLhyphen"/>ly guard (that
+I know) againſt the laſhes, and violent Perſecutions of inveterate and malicious Tongues.</p>
+            <p>But it's time to recollect my ſelf, and return to Diſ<g ref="char:EOLhyphen"/>courſe of the Worthy Perſon,
+whoſe Memory we now Celebrate. To be ſilent in his Praiſes (I know) will not be reſented
+well, or approved of by the reſt of
+<pb n="10" facs="tcp:105039:6"/>my good Friends. I ſhall therefore conſider this <hi>Great Man</hi> in a
+Two-fold capacity.
+<list>
+                  <item>1. As he was a Publick Man, and an Eminent Mini<g ref="char:EOLhyphen"/>ſter of State.</item>
+                  <item>2. As he was a Private Man, and an extraordinary Chriſtian.</item>
+               </list>
+            </p>
+            <p>And <hi>Thirdly,</hi> I ſhall ſhew how juſtly he may chal<g ref="char:EOLhyphen"/>lenge this word <hi>Juſt</hi>
+in my Text. (But pray, let not this be Interpreted a <hi>Punn.</hi>) As to his publick con<g ref="char:EOLhyphen"/>cern in
+the World, and his making ſo conſiderable (though crooked) Figure in it, I muſt needs ſay,
+that all theſe Advancements and Dignities therein, were the Purchaſe of his own Wit, and
+extraordinary Qua<g ref="char:EOLhyphen"/>lifications. That he was a Perſon highly Deſcended, and wonderfully (if not
+miraculouſly) qualified for publick Adminiſtration of Affairs, is I hope generally
+confeſſed. That he had a vaſt Gigantick Soul crowd<g ref="char:EOLhyphen"/>ed up, and Coop'd in a <hi>Pigmy's</hi>
+Tabernacle, yet ſo Brisk and Active, that <hi>Prometheus</hi> ſtole half the Fire from Heaven
+to enlighten it. He had ſuch a Soul ſo bold, and daring, that he became (as the <hi>Elegy</hi>
+has it) the Dread of the Crown, and yet the Friend of it too. He was a Strenuous Defender of the
+Royal Preroga<g ref="char:EOLhyphen"/>tive, witneſs thoſe many excellent Speeches of his in his
+<hi>Chancellorſhip.</hi> And yet not ſo ſtiff neither, but (when after his Degradation) he
+began not to love the Court ſo heartily as before, he then adhered to the Majeſty of the
+People, and defended the High and Mighty Plenipotentiaries, the Multitude; then he wiſe<g ref="char:EOLhyphen"/>ly
+conſulted with the Uncontroulable Rabble, to ſup<g ref="char:EOLhyphen"/>port <hi>Magna Charta, Liberty, Property,</hi>
+&amp;c.</p>
+            <p>From this, ſolicitous Care of the Nations Good, ſprung that never to be forgotten Model of
+the Aſſociation, the Spawn of the Holy <hi>League</hi> and <hi>Covenant.</hi> Who
+<pb n="11" facs="tcp:105039:6"/>therefore can ſufficiently Lament this Worthy Perſon, the publick Pillar of
+the State, the <hi>Moſes,</hi> the Condu<g ref="char:EOLhyphen"/>ctor of the People, nay (without Prophaneneſs) the
+Puny Saviour of the Nation? What, could I repeat concerning his worth? the Exaltedneſs of his
+Fortune, the High and Meritorious Dignities conferred upon him, his Prudence, Magnanimity and
+Height of Spirit, his Proving, and Zealous Proſecution of the Late <hi>Plot,</hi> and faithful
+Adhaeſion to the Crown, when the Crown was kind to him, and Promoted him? But why ſhould I thus
+deſcant on the wonderful perfections of this Man, who was as Eminent for Religion, as for his
+Po<g ref="char:EOLhyphen"/>liticks. He was a Faithful Zealous Man in Holy Wor<g ref="char:EOLhyphen"/>ſhip, (which is a ſtrange unheard of
+thing in a Stateſ<g ref="char:EOLhyphen"/>man.) And yet notwithſtanding all theſe extraordi<g ref="char:EOLhyphen"/>nary Endowments of the
+Mind, the Wicked of the World take occaſion to traduce him, and detract very injuriouſly from
+his Worth. His Religion is termed Atheiſm, his way of Worſhip Sceptical and Prophane, the
+droppings of his <hi>Tap,</hi> occaſioned by his Hydropick Diſtemper, is render'd as the
+miſerable conſequence of a young Debauch; his Care for the Welfare of the Nation is reckon'd
+<hi>Treaſon.</hi> And is it not ſtrange that this great Perſon (the deſire of Mankind while
+living) ſhould be ſo miſerably Crucify'd after his Death? Is it not a Paradox to a Wiſe and
+Underſtanding Man, to find a Perſon ſo diſingenuouſly abuſed, when he is not in a
+capacity to vindicate himſelf? How wonderfully is he expoſed to the ſcorn and contempt of the
+World in <hi>Doggrel, Ballads, Viſions, Dialogues,</hi> &amp;c. with a num<g ref="char:EOLhyphen"/>ber of
+<hi>Pamphlets</hi> that circulate the Gown in Deroga<g ref="char:EOLhyphen"/>tion of his honour? But I think 'tis time to
+leave off, leſt I'm thought too fulſome a <hi>Panegyriſt.</hi>
+            </p>
+            <pb n="12" facs="tcp:105039:7"/>
+            <p>We'll therefore deſcend to the Second Poſition, and ſhew you: <hi>Secondly,</hi> That a
+<hi>Tory-ranting, Roaring</hi> kind of Behaviour here, makes a Man's Name Stink, and Rot (as my
+Text has it) after Death. When People are Debauch'd in Principles, and have wickedly forſaken the
+True Proteſtant Intereſt (which word <hi>True-Prote<g ref="char:EOLhyphen"/>ſtant</hi> is miſerably ridicul'd by
+young <hi>Tory Whiflers,</hi> or (as the Ingenious Hiſtorian Mr. <hi>Care</hi> has it) <hi>Dull
+Nos'd Tories.</hi>) I ſay then, their Reputation ſinks in the World, and their Names (when they
+are Dead) are as nauſeous to Mankind, as their Putrify'd, and Rot<g ref="char:EOLhyphen"/>ten Bones. When People follow
+ſtrange Devices, and Worſhip falſe Gods, what the Devil can become of their good Names? They
+muſt ſuffer in their credit after Death, that in their Life time commit ſuch vile
+Abominations.</p>
+            <p>They blindly frequent their <hi>Hallowed Steeple-Houſes,</hi> and Perſecute us, becauſe
+our tender, and ſqueamiſh Conſciences will not permit us to Conform with them. They teeze us
+with their <hi>Spiritual Bumms,</hi> and <hi>Religi<g ref="char:EOLhyphen"/>ous Kid-nappers,</hi> the <hi>Informers</hi>
+Carp and Crow over us, and expoſe us publicity in <hi>Courants, Dialogues,</hi> &amp;c. but I
+ſhall not be cenſorious as the wicked are. The end of ſuch Men will be Tragical, and their
+Memo<g ref="char:EOLhyphen"/>ries hateful to future Ages. Let the wicked (Beloved) tickle and pleaſe themſelves, and
+laugh at our Perſecutions (as the cunning <hi>Obſervator</hi> does) the time will come, when
+the Wind and Tide is on our ſides (when Al<g ref="char:EOLhyphen"/>mighty Parliaments ſhall again flouriſh) that we
+ſhall handle them for their Inſolence, in ſetting forth ſo openly the Practices of our
+Party. I doubt not but this ſlurring <hi>Obſervator</hi> (I ſay) will be dealt with by ſome
+of our Ingenious Youngſters of the Neighbour<g ref="char:EOLhyphen"/>ing Academy; the young Men of <hi>Newington</hi> are
+pro<g ref="char:EOLhyphen"/>found
+<pb n="13" facs="tcp:105039:7"/>found Sophiſters I can aſſure him, and can handle an Argument moſt
+dextrouſly. They'l Confute his <hi>Diſ<g ref="char:EOLhyphen"/>ſenters</hi> ſayings, they have read Divine
+<hi>Milton,</hi> and <hi>Knox,</hi> and know how to ſettle the State, and Reform the preſent
+Irregularities of the Government, they are Po<g ref="char:EOLhyphen"/>pular Men, and have the very Hearts of the People of
+God: They can match him with their <hi>Philoſophical Windmils,</hi> and <hi>Flying Chariots,</hi>
+in oppoſition to his ſcrew'd Guns and Piſtols, and his ſcurrilous ſtory of our Brother at
+<hi>Bath,</hi> (though it may be true I grant you.) Such Men as theſe, I ſay, who expoſe the
+Righteous, and endeavour to make their Names odi<g ref="char:EOLhyphen"/>ous in this World, will by a ſtrange (though
+juſt) courſe of Providence be made wonderfully ridiculous themſelves, and their Names (in the
+Words of my Text) <hi>will Rot,</hi> and (as I may ſay) Putrify. But, Beloved, I would not
+willingly tranſgreſs on your Pa<g ref="char:EOLhyphen"/>tience too much, to go beyond the decent limits of a Sermon. I
+ſhall therefore make Application of what has been ſaid, and enforce ſome practicable
+buſineſs to your conſideration.</p>
+            <p>Let us (who are the Meek of the Earth, the Sober and Godly Party) endeavour to live up to
+thoſe ex<g ref="char:EOLhyphen"/>cellent Rules that are Weekly preſcrib'd to us by our Godly Miniſters; let us
+perſevere in our holy Reſolu<g ref="char:EOLhyphen"/>tions; let neither Perſecution, Reproach, or Contempt any way
+deter us from meeting and ſerving God in Private, and then (there's no doubt of it) we ſhall
+have ſucceſs proportionable to our hopes, and in the Scripture Phraſe, we ſhall Inherit the
+Earth. What though we are miſerably diſcomfited by late unhap<g ref="char:EOLhyphen"/>py diſappointments? What though
+the Patron of our Cauſe be Deceaſed, and has left the Hot-headed Mul<g ref="char:EOLhyphen"/>titude without Order, all
+things at Random and Con<g ref="char:EOLhyphen"/>fuſion?
+<pb n="14" facs="tcp:105039:8"/>Who knows but ſome cunning Politick Perſon of Quality (as the Remarquer on
+<hi>Jovian,</hi> or the Au<g ref="char:EOLhyphen"/>thor of the Elegy on <hi>Stafford</hi>) may interpoſe, and vindicate
+our Cauſe in the Declenſion of its Age: Such as theſe, both good <hi>Logicians,
+Hiſtorians,</hi> and pro<g ref="char:EOLhyphen"/>found <hi>Politicians</hi> into the Bargain, would manage the concern
+bravely, if they would but take the Reve<g ref="char:EOLhyphen"/>rend Mr. <hi>John</hi> — <hi>n</hi> (in the room of
+that ſottiſh Be<g ref="char:EOLhyphen"/>ſtial Satyr of <hi>Salamanca,</hi> who has Debauch'd our Cauſe) to be their
+worthy Chaplain, and Mr. <hi>Hunt</hi> their Secretary. Lord! what a Bleſſed Reformation might
+ſuddenly follow? All our concerns would again flouriſh, and ſpread into every corner of the
+Land, and then we ſhould ſee the Bleſſed Revolutions of <hi>Forty One</hi> again; then true
+Piety would flouriſh, and grow in faſhion once more; there would be no Swearing and
+Blaſpheming, no Adultery, and no complaining in our ſtreets, Faſt ye therefore (my Beloved,
+but not as the Wicked do) and pray ye to the Lord for this hap<g ref="char:EOLhyphen"/>py change, for our deliverance is
+nigh, and the Salva<g ref="char:EOLhyphen"/>tion of his People is at hand.</p>
+            <p>
+               <hi>Laſtly,</hi> Let me put before your Eyes, the great Ex<g ref="char:EOLhyphen"/>ample of our late Deceaſed
+Patriot, conſider how in<g ref="char:EOLhyphen"/>duſtriouſly zealous he was for the <hi>True-Proteſtant</hi>
+Inte<g ref="char:EOLhyphen"/>reſt, what Indignities and Shame he underwent, purely on the account of Religion, what
+difficulties he paſſed through, to reduce this Haughty Monarchy into Order, and Subjection, if
+poſſible, and to ſettle it on the ſolid Foundations, and firm Eſtabliſhments of a
+<hi>Common<g ref="char:EOLhyphen"/>wealth:</hi> He left no means unattempted to make the Na<g ref="char:EOLhyphen"/>tion flouriſh, for he
+condeſcended to men of low Degree, he Converſed with Carpenters and Bricklayers, that he might
+carry on the work of the Lord powerfully and ſucceſsfully. All this he did to keep a <hi>good
+Conſciences,</hi>
+               <pb n="15" facs="tcp:105039:8"/>as ſome think, and to purchaſe a <hi>good Name</hi> for many Generations:
+Let the Wicked (my Friends) talk of his Fatal deſcent into the Regions of darkneſs, of his
+Congratulations with the <hi>Joyner,</hi> and the black Cata<g ref="char:EOLhyphen"/>logue of the damn'd Fraternity; we
+ought charitably to put good Conſtructions on Mens actions, and hope, (at leaſt) that he is at
+reſt, and that his Memory will be Honorably Celebrated amongſt
+<hi>True-Blue-Proteſtants.</hi> I am ſure his Heroick Achievements, and Noble Actions,
+deſerve to be faithfully Regiſtred, and to be carefully tranſmitted to Poſterity. Let the
+Wicked and Perverſe talk of ſtinking Guts and Garbage, and ſay, <hi>That his Name ſhall
+Rot, and be odious to future Ages:</hi> Yet let us follow his Bleſſed ſteps, and ſtand
+ſtiff, and firm in our Holy Reſolutions, to cheriſh the <hi>True-Proteſtant Cauſe,</hi>
+and never leave it, and forſake it. Then our Names ſhall be famous here on Earth, and we
+ſhall ſit down at laſt (I hope) with St. <hi>Stephen,</hi> with our Friend Deceaſed, and
+with <hi>Bradſhaw, Ireton,</hi> and <hi>Hew<g ref="char:EOLhyphen"/>ſon</hi> in the Kingdom of <hi>H</hi>—</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
